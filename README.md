@@ -62,8 +62,8 @@ npm run dev
 *The frontend will run on [http://localhost:5173](http://localhost:5173)*
 
 ## 🔗 Links
-- **Live Demo**: [Link to your live site]
+- **Live Demo(Deployed on render, Please wait for a while it might take some time to build)**: [[Link to your live site]](https://my-todo-list-qej5.onrender.com/)
 - **Video Presentation**: [Link to your video presentation]
 
 ---
-Developed by **BlackBoxJU50**
+Developed by **Md Hasib Ahmed Khan**
