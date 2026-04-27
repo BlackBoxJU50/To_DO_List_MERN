@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Signup from './Signup'
-import Login from './Login'
-import Home from './Home'
+import Signup from './pages/Signup'
+import Login from './pages/Login'
+import Home from './pages/Home'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 
 function App() {

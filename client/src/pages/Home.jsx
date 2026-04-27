@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import Create from "./Create";
+import Create from "../components/Create";
 import { BsFillCheckCircleFill, BsCircleFill, BsFillTrashFill, BsPencilSquare, BsCheckLg, BsXLg } from 'react-icons/bs';
 
 function Home() {
