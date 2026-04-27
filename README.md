@@ -2,10 +2,10 @@
 
 A modern, full-stack To-Do List application built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to register, log in, and manage their tasks with real-time updates and a responsive UI.
 
-## 🚀 Overview
+## Overview
 This project provides a robust task management system where users can keep track of their daily activities. Each user has their own isolated task list, ensuring privacy and organization. The frontend is built for speed and responsiveness, while the backend ensures secure data handling and persistent storage.
 
-## ✨ Features
+## Features
 
 ### Frontend
 - **Responsive UI**: Built with Bootstrap for a clean and mobile-friendly experience.
@@ -27,13 +27,13 @@ This project provides a robust task management system where users can keep track
 - **Update**: Mark tasks as completed or edit task descriptions.
 - **Delete**: Remove tasks from your list with a single click.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: React.js, Vite, Bootstrap, Axios, React Icons, React Router
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose ODM)
 - **Tooling**: Nodemon (for development)
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js installed on your machine.
@@ -61,9 +61,9 @@ npm run dev
 ```
 *The frontend will run on [http://localhost:5173](http://localhost:5173)*
 
-## 🔗 Links
+## Links
 - **Live Demo(Deployed on render, Please wait for a while it might take some time to build)**: [[Link to your live site]](https://my-todo-list-qej5.onrender.com/)
-- **Video Presentation**: [Link to your video presentation]
+- **Video Presentation**: [[Link to your video presentation]](https://drive.google.com/file/d/167XkIlqAvwFSMKBP49xF_MoLdjUN-riu/view?usp=sharing)
 
 ---
 Developed by **Md Hasib Ahmed Khan**
